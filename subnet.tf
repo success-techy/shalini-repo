@@ -6,7 +6,7 @@ resource "aws_subnet" "sub1" {
 
  tags = {
 
-    Name = "public-subnet-1"
+    Name = "Public-Subnet-1"
 
   }
 
